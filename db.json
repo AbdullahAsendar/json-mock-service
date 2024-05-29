@@ -1,0 +1,129 @@
+{
+    "ICAservices": {
+        "api": {
+            "api": {
+                "ICA": {
+                    "ica-data": {
+                        "status": "200",
+                        "userData": {
+                            "Body": {
+                                "personInquiryResponse": {
+                                    "Header": {
+                                        "serviceName": "PERSON_INQUIRY_SERVICE",
+                                        "serviceLanguage": "EN",
+                                        "serviceVersion": "1.0",
+                                        "sourceChannel": "SHDG",
+                                        "hash": "3wL+2sbXb7Q3roFWmUsmyFueeU5nr7LR2T2UOgPatorvieCv/xvtInhNSzco7e4594vyT2h5joNNT8KHIoChAw=="
+                                    },
+                                    "Body": {
+                                        "transactionRefNo": "1068422924052915380284229",
+                                        "responseDescription": "Success",
+                                        "timestamp": "2024-05-29T15:38:02",
+                                        "personProfile": {
+                                            "birthCountry": {
+                                                "id": "1",
+                                                "descriptionArabic": "الإمارات العربية المتحدة",
+                                                "descriptionEnglish": "UNITED ARAB EMIRATES"
+                                            },
+                                            "maritalStatus": {
+                                                "id": "1",
+                                                "descriptionArabic": "اعزب",
+                                                "descriptionEnglish": "SINGLE"
+                                            },
+                                            "birthPlaceEnglish": "DUBAI",
+                                            "qualification": {},
+                                            "identityCard": {
+                                                "IDN": "784199562073751",
+                                                "issueDate": "2014-07-23T00:00:00",
+                                                "expiryDate": "2016-04-03T00:00:00"
+                                            },
+                                            "UN": "573093",
+                                            "birthPlaceArabic": "دبي",
+                                            "birthCity": {
+                                                "id": "10",
+                                                "descriptionArabic": "مدينة دبي",
+                                                "descriptionEnglish": "DUBAI CITY"
+                                            },
+                                            "khulasitQaidNo": "301/11936",
+                                            "addresses": {
+                                                "address": {
+                                                    "localAddress": {
+                                                        "city": {
+                                                            "id": "10",
+                                                            "descriptionArabic": "مدينة دبي",
+                                                            "descriptionEnglish": "DUBAI CITY"
+                                                        },
+                                                        "emirate": {
+                                                            "id": "2",
+                                                            "descriptionArabic": "دبي",
+                                                            "descriptionEnglish": "DUBAI"
+                                                        },
+                                                        "mobileNo": "0555522443"
+                                                    }
+                                                }
+                                            },
+                                            "birthEmirate": {
+                                                "id": "2",
+                                                "descriptionArabic": "دبي",
+                                                "descriptionEnglish": "DUBAI"
+                                            },
+                                            "passport": {
+                                                "passportType": {
+                                                    "id": "1",
+                                                    "descriptionArabic": "جواز سفر عادي",
+                                                    "descriptionEnglish": "ORDINARY PASSPORT"
+                                                },
+                                                "issueCountry": {
+                                                    "id": "1",
+                                                    "descriptionArabic": "الإمارات العربية المتحدة",
+                                                    "descriptionEnglish": "UNITED ARAB EMIRATES"
+                                                },
+                                                "issueDate": "2010-08-23T00:00:00",
+                                                "passportNo": "2510785",
+                                                "expiryDate": "2015-08-22T00:00:00",
+                                                "issuePlace": "الشارقه"
+                                            },
+                                            "familyCount": "11",
+                                            "nationality": {
+                                                "id": "1",
+                                                "descriptionArabic": "الإمارات العربية المتحدة",
+                                                "descriptionEnglish": "UNITED ARAB EMIRATES"
+                                            },
+                                            "gender": {
+                                                "id": "1",
+                                                "descriptionArabic": "ذكر",
+                                                "descriptionEnglish": "MALE"
+                                            },
+                                            "birthDate": "1995-02-27T00:00:00",
+                                            "immigrationFile": {},
+                                            "personName": {
+                                                "thirdNameArabic": "يوسف",
+                                                "secondNameArabic": "عثمان",
+                                                "secondNameEnglish": "OTHMAN",
+                                                "fourthNameArabic": "محمد",
+                                                "tribe": {
+                                                    "id": "7194",
+                                                    "descriptionArabic": "المازمى",
+                                                    "descriptionEnglish": "ALMAAZMI"
+                                                },
+                                                "fullNameArabic": "مهير عثمان يوسف محمد المازمى",
+                                                "thirdNameEnglish": "YOUSIF",
+                                                "fourthNameEnglish": "MOHAMED",
+                                                "familyNameEnglish": "ALMAAZMI",
+                                                "firstNameEnglish": "MUHAIR",
+                                                "fullNameEnglish": "MUHAIR OTHMAN YOUSIF MOHAMED ALMAAZMI",
+                                                "familyNameArabic": "المازمى",
+                                                "firstNameArabic": "مهير"
+                                            }
+                                        },
+                                        "responseCode": "0"
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
