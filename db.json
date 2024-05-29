@@ -1,5 +1,5 @@
 {
-    "ICAservices/api/api/ICA/ica-data": {
+    "/ica-data": {
         "status": "200",
         "userData": {
             "Body": {
